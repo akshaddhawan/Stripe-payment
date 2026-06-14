@@ -1,6 +1,6 @@
 <h1 align="center">Stripe Simplified for Beginners 💰</h1>
 
-![Demo App](/screenshot-for-readme.png)
+![Demo App](screenshot-for-readme.png?v=2)
 
 About This Course:
 
